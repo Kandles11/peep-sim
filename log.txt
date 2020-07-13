@@ -1,0 +1,290 @@
+TIME UNIT 0
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+test is asleep! Energy: 53
+TIME UNIT 1
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+test is asleep! Energy: 56
+TIME UNIT 2
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+test is asleep! Energy: 59
+TIME UNIT 3
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+test is asleep! Energy: 62
+TIME UNIT 4
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+test is asleep! Energy: 65
+TIME UNIT 5
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+test is asleep! Energy: 68
+TIME UNIT 6
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+test is asleep! Energy: 71
+TIME UNIT 7
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+test is asleep! Energy: 74
+TIME UNIT 8
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+test is asleep! Energy: 77
+TIME UNIT 9
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+test is asleep! Energy: 80
+TIME UNIT 10
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+test is asleep! Energy: 83
+TIME UNIT 11
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+test is asleep! Energy: 86
+TIME UNIT 12
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+test is asleep! Energy: 89
+TIME UNIT 13
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+test is asleep! Energy: 92
+test is now awake!
+TIME UNIT 14
+TIME UNIT 15
+TIME UNIT 16
+TIME UNIT 17
+TIME UNIT 18
+TIME UNIT 19
+TIME UNIT 20
+TIME UNIT 21
+TIME UNIT 22
+TIME UNIT 23
+TIME UNIT 24
+TIME UNIT 25
+TIME UNIT 26
+TIME UNIT 27
+TIME UNIT 28
+TIME UNIT 29
+TIME UNIT 30
+TIME UNIT 31
+TIME UNIT 32
+TIME UNIT 33
+TIME UNIT 34
+TIME UNIT 35
+TIME UNIT 36
+TIME UNIT 37
+TIME UNIT 38
+TIME UNIT 39
+TIME UNIT 40
+TIME UNIT 41
+TIME UNIT 42
+TIME UNIT 43
+TIME UNIT 44
+TIME UNIT 45
+TIME UNIT 46
+TIME UNIT 47
+TIME UNIT 48
+TIME UNIT 49
+TIME UNIT 50
+TIME UNIT 51
+TIME UNIT 52
+TIME UNIT 53
+TIME UNIT 54
+TIME UNIT 55
+TIME UNIT 56
+test drank water! Thirst: 81.0
+test drank water! Thirst: 85.0
+test drank water! Thirst: 89.0
+test drank water! Thirst: 89.0
+test drank water! Thirst: 82.0
+test drank water! Thirst: 89.0
+test drank water! Thirst: 80.0
+test drank water! Thirst: 85.0
+test drank water! Thirst: 81.0
+test drank water! Thirst: 82.0
+TIME UNIT 57
+TIME UNIT 58
+TIME UNIT 59
+TIME UNIT 60
+TIME UNIT 61
+TIME UNIT 62
+TIME UNIT 63
+TIME UNIT 64
+TIME UNIT 65
+TIME UNIT 66
+TIME UNIT 67
+TIME UNIT 68
+TIME UNIT 69
+TIME UNIT 70
+TIME UNIT 71
+TIME UNIT 72
+TIME UNIT 73
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+test socialized with test! social score: 70.0
+TIME UNIT 74
+TIME UNIT 75
+TIME UNIT 76
+test ate food! Hunger: 91.0
+test ate food! Hunger: 94.0
+test ate food! Hunger: 91.0
+test ate food! Hunger: 97.0
+test ate food! Hunger: 100.0
+test ate food! Hunger: 95.0
+test ate food! Hunger: 99.0
+test ate food! Hunger: 92.0
+test ate food! Hunger: 100.0
+test ate food! Hunger: 98.0
+TIME UNIT 77
+TIME UNIT 78
+TIME UNIT 79
+TIME UNIT 80
+TIME UNIT 81
+TIME UNIT 82
+TIME UNIT 83
+TIME UNIT 84
+TIME UNIT 85
+TIME UNIT 86
+test drank water! Thirst: 83.0
+TIME UNIT 87
+test drank water! Thirst: 87.0
+test drank water! Thirst: 86.0
+TIME UNIT 88
+test drank water! Thirst: 81.0
+test drank water! Thirst: 88.0
+TIME UNIT 89
+TIME UNIT 90
+TIME UNIT 91
+test drank water! Thirst: 88.0
+test drank water! Thirst: 83.0
+TIME UNIT 92
+TIME UNIT 93
+TIME UNIT 94
+TIME UNIT 95
+test drank water! Thirst: 84.0
+test drank water! Thirst: 82.0
+test drank water! Thirst: 87.0
+TIME UNIT 96
+TIME UNIT 97
+TIME UNIT 98
+TIME UNIT 99
